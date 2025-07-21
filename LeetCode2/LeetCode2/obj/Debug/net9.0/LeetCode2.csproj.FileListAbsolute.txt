@@ -1,0 +1,14 @@
+C:\Users\Sakshi\source\repos\LeetCode2\LeetCode2\obj\Debug\net9.0\LeetCode2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sakshi\source\repos\LeetCode2\LeetCode2\obj\Debug\net9.0\LeetCode2.AssemblyInfoInputs.cache
+C:\Users\Sakshi\source\repos\LeetCode2\LeetCode2\obj\Debug\net9.0\LeetCode2.AssemblyInfo.cs
+C:\Users\Sakshi\source\repos\LeetCode2\LeetCode2\obj\Debug\net9.0\LeetCode2.csproj.CoreCompileInputs.cache
+C:\Users\Sakshi\source\repos\LeetCode2\LeetCode2\bin\Debug\net9.0\LeetCode2.exe
+C:\Users\Sakshi\source\repos\LeetCode2\LeetCode2\bin\Debug\net9.0\LeetCode2.deps.json
+C:\Users\Sakshi\source\repos\LeetCode2\LeetCode2\bin\Debug\net9.0\LeetCode2.runtimeconfig.json
+C:\Users\Sakshi\source\repos\LeetCode2\LeetCode2\bin\Debug\net9.0\LeetCode2.dll
+C:\Users\Sakshi\source\repos\LeetCode2\LeetCode2\bin\Debug\net9.0\LeetCode2.pdb
+C:\Users\Sakshi\source\repos\LeetCode2\LeetCode2\obj\Debug\net9.0\LeetCode2.dll
+C:\Users\Sakshi\source\repos\LeetCode2\LeetCode2\obj\Debug\net9.0\refint\LeetCode2.dll
+C:\Users\Sakshi\source\repos\LeetCode2\LeetCode2\obj\Debug\net9.0\LeetCode2.pdb
+C:\Users\Sakshi\source\repos\LeetCode2\LeetCode2\obj\Debug\net9.0\LeetCode2.genruntimeconfig.cache
+C:\Users\Sakshi\source\repos\LeetCode2\LeetCode2\obj\Debug\net9.0\ref\LeetCode2.dll
